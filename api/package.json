@@ -1,4 +1,6 @@
 {
-  "name": "application-name",
-  "version": "0.0.1"
+  "name": "pingpong-api",
+  "version": "0.0.1",
+  "description": "The static part of ping pong application.",
+  "author": "Lilit Tadevosyan"
 }

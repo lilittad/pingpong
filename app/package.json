@@ -1,0 +1,9 @@
+{
+  "name": "pingpong-app",
+  "version": "0.0.1",
+  "description": "The app part of ping pong application.",
+  "author": "Lilit Tadevosyan",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
